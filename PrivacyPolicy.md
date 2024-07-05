@@ -9,7 +9,7 @@ At Rub, we value your privacy and are committed to protecting your personal info
 ### a. User Information
 When you use the Bot, we may collect the following types of information:
 - **User ID and Username:** This is necessary to identify and interact with you on Discord.
-- **Server Information:** Details about the server where the Bot is used, including server ID, server name, roles, channels, to insure a proper .
+- **Server Information:** Details about the server where the Bot is used, including server ID, server name, roles IDs, channels IDs.
 
 ### b. Usage Data
 We may collect information on how the Bot is accessed and used, including:
